@@ -1,1 +1,1 @@
-# new-one.github.io
+# newone.github.io
